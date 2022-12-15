@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+p {
+  color: #eaebee;
+  margin: 0;
+}
+
+button {
+  outline: none;
+  border: none;
+  display: flex;
+  background: none;
+  cursor: pointer;
+  font-family: inherit;
+}
