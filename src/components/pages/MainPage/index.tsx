@@ -1,6 +1,7 @@
+import { ActivityComponentType } from '@stackflow/react';
 import React from 'react';
 
-const MainPage = () => {
+const MainPage: ActivityComponentType = () => {
   return <div></div>;
 };
 
