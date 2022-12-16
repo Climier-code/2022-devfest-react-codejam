@@ -10,13 +10,17 @@
 
 ## Usage
 
-1. Git Clone
+1. Git Fork
+
+![GitHub forks](https://img.shields.io/github/forks/Climier-code/2022-devfest-react-codejam?style=social)
+
+2. Git Clone
 
 ```cmd
-$ git clone https://github.com/Climier-code/carrot-market-devfest.git
+$ git clone https://github.com/본인계정 id/carrot-market-devfest.git
 ```
 
-2. Install package
+3. Install package
 
 ```cmd
 $ yarn
@@ -26,7 +30,7 @@ $ yarn
 $ npm install
 ```
 
-3. Start
+4. Start
 
 ```cmd
 $ yarn start
@@ -36,7 +40,7 @@ $ yarn start
 $ npm run start
 ```
 
-4. Deploy
+5. Deploy
 
 ```cmd
 $ yarn deploy
