@@ -12,7 +12,7 @@
 
 1. Git Fork
 
-![GitHub forks](https://img.shields.io/github/forks/Climier-code/2022-devfest-react-codejam?style=social)
+[![GitHub forks](https://img.shields.io/github/forks/Climier-code/2022-devfest-react-codejam?style=social)](https://github.com/Climier-code/2022-devfest-react-codejam/fork)
 
 2. Git Clone
 
